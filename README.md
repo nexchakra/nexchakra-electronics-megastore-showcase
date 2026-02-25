@@ -1,6 +1,6 @@
 # NexChakra Electronics Megastore Showcase
 
-NexChakra Electronics Megastore Showcase is a complete digital commerce platform designed to manage and showcase all categories of electronic products — from large consumer devices to micro-level electronic components.
+NexChakra Electronics Megastore Showcase is a complete digital commerce platform designed to manage and showcase all categories of electronic products from large consumer devices to micro-level electronic components.
 
 The platform is built to serve retailers, technicians, engineers, repair centers, and individual customers through a structured and scalable digital system.
 
